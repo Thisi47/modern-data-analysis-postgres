@@ -1,0 +1,17 @@
+# Data Manipulation
+pandas>=2.2.0
+numpy>=2.0.0
+
+# Database Connectivity
+sqlalchemy>=2.0.0
+psycopg[binary]>=3.1.0  # Le driver moderne pour Postgres
+
+# Data Generation
+faker>=24.0.0
+
+# Notebooks & Viz
+jupyterlab>=4.1.0
+ipython-sql
+matplotlib
+seaborn
+plotly

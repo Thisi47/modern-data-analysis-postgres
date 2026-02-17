@@ -1,0 +1,19 @@
+# Mac OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Data (Ne jamais commiter les gros CSV bruts)
+datasets/raw/*.csv
+!datasets/raw/.gitkeep
