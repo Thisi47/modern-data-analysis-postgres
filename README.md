@@ -29,10 +29,10 @@ Ce cours est conçu pour vous faire passer de débutant à Data Analyst confirm�
 
 ## 🚀 Comment utiliser ce repo
 1. Clonez le dépôt :
-   `git clone https://github.com/ton-user/modern-data-analysis-postgres.git`
+   `git clone https://github.com/Thisi47/modern-data-analysis-postgres.git`
 2. Installez les dépendances :
    `pip install -r requirements.txt`
-3. Suivez la playlist sur [YouTube](https://youtube.com/ton-lien)
+3. Suivez la playlist sur [YouTube](https://www.youtube.com/playlist?list=PLpVFQ4CmfYfFTUUFvv7qYezlge8mTTnr0)
 
 ## 🤝 Contribuer
 Les Pull Requests pour corriger des fautes ou proposer des exercices alternatifs sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md).
